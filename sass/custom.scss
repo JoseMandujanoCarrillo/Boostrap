@@ -1,0 +1,31 @@
+// Import Bootstrap's SCSS
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Custom styles
+body {
+  background-color: #f8f9fa;
+}
+
+header {
+  background-color: #007bff;
+}
+
+footer {
+  background-color: #007bff;
+}
+
+// Customize button styles
+.btn-outline-primary {
+  border-color: #007bff;
+  color: #007bff;
+
+  &:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+}
+
+.card-primary {
+  background-color: #007bff;
+  color: #fff;
+}

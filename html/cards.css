@@ -1,0 +1,30 @@
+.card_purple {
+    background-color: #7c005d;
+    color: white;
+  }
+  .card_dark {
+    background-color: #3f3f3f;
+    color: white;
+  }
+  .card_light {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  .icono {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .quote-icon {
+    font-size: 5rem;
+    opacity: 0.2;
+    position: absolute;
+    right: 20px;
+    bottom: 10px;
+  }
+  header, footer {
+    background-color: #343a40;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+  }
